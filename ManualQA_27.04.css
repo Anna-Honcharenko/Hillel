@@ -86,14 +86,7 @@ body {
   color: #595959;
 }
 
-.project-item-link {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
-  text-decoration-line: underline;
-  color: #005fff;
-}
+
 
 /* Work experience  */
 .work-experience-container {
