@@ -2,7 +2,9 @@ body {
   font-family: "Montserrat", sans-serif;
   background-color: #e5e5e5;
   padding: 40px 40px 40px 40px;
+  margin: 0;
 }
+
 
 .wrapper {
   display: flex;
